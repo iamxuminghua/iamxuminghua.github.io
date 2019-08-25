@@ -3,15 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://xuminghua.com/posts/</loc>
+    <lastmod>2019-08-26T00:28:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xuminghua.com/</loc>
+    <lastmod>2019-08-26T00:28:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xuminghua.com/posts/my-first-post/</loc>
+    <lastmod>2019-08-26T00:28:26+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://xuminghua.com/categories/</loc>
   </url>
   
   <url>
     <loc>https://xuminghua.com/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://xuminghua.com/</loc>
   </url>
   
 </urlset>
